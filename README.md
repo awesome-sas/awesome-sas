@@ -197,10 +197,12 @@ These links are a compact starting point for writing cleaner, safer, and easier-
 - [UCLA OARC SAS Library](https://stats.oarc.ucla.edu/sas/library/) - Dense, preserved collection of SAS tutorials, notes, and linked papers.
 - [SAS Tips from the Community](https://communities.sas.com/t5/SAS-Tips-from-the-Community/bd-p/sastips) - Small, practical community tips.
 - [Research and Science from SAS](https://communities.sas.com/t5/Research-and-Science-from-SAS/tkb-p/science) - Research-oriented articles and technical material.
-
+- [Raw SAS](https://rawsas.com/) - Allan Bowe's SAS tips and tricks blog, covering practical programming and app development, plus a transcribed archive of the historical SAS Communications newsletter.
+- 
 ## Testing and Quality
 
-- [saspytest](https://github.com/awesome-sas/saspytest) - Unit Testing framework build on saspy and pytest. Works with SAS9 and SAS Viya. 
+- [saspytest](https://github.com/awesome-sas/saspytest) - Unit Testing framework build on saspy and pytest. Works with SAS9 and SAS Viya.
+- [sasjs test](https://cli.sasjs.io/test/) - Extensive testing framework for SAS Jobs, Services and Macros, driven from the SASjs CLI. Each test is compiled and deployed as a web service, so every test runs in its own isolated SAS session, with ready-made assertion macros (columns, column values, observations, scope leakage), coverage reporting per Job/Service/Macro, and results exported as CSV, JSON, JUnit XML and LCOV.
 - [SASUnit](https://github.com/HMS-Analytical-Software/SASUnit) - Mature unit-testing framework for SAS programs, with assertions, coverage, batch execution, and generated test documentation.
 - [FUTS (outdated)](https://github.com/ocd-jacobs/futs) - FUTS (Framework for Unit Testing SAS programs). Has not seen any updates for a very long time.
 - [SAS Programming Community](https://communities.sas.com/t5/SAS-Programming/bd-p/programming) - Good place to find edge cases, log diagnostics, and real-world failure patterns worth testing.
@@ -237,6 +239,8 @@ Stored processes are the classic SAS 9 web-application pattern. In SAS Viya, the
 - [Controlling Stored Process Execution through Request Initialization Code Injection](https://blogs.sas.com/content/sgf/2017/07/28/controlling-stored-process-execution-through-request-initialization-code-injection/) - Advanced execution-control pattern for enforcing the right server context and request behavior.
 - [Pick a Display, Any Display - The Power of _odsdest in Stored Processes](https://blogs.sas.com/content/sastraining/2005/10/20/pick-a-display-any-display-the-power-of-_odsdest-in-stored-processes/) - Useful output-formatting technique for reusable stored processes that emit HTML, PDF, or RTF.
 - [Backup or copy all components of your stored process before making changes](https://blogs.sas.com/content/sastraining/2012/06/06/backup-or-copy-all-components-of-your-stored-process-before-making-changes/) - Simple but important change-management advice before editing deployed stored processes.
+- [Data Controller for SAS](https://datacontroller.io/) - Production web application built on this pattern: business users edit IT-owned source tables, secured by a review/approve workflow, validation, and a full audit trail.
+- [Macro Dash](https://github.com/sasjs/macro-dash) - Playable game that doubles as a working demonstration of data-powered web apps on SAS: the HTML/JS frontend is streamed from SAS with no separate web tier, the backend services are written in SAS, and one codebase deploys to Viya, SAS 9 EBI or SASjs Server.
 
 ## Administration and Operations
 
