@@ -172,19 +172,18 @@ These links are a compact starting point for writing cleaner, safer, and easier-
 ## Conference Proceedings and Archives
 
 - [Past Conference Proceedings: 1976-onward](https://communities.sas.com/t5/SAS-Communities-Library/Past-Conference-Proceedings-1976-onward/ta-p/863480) - Official master index of SAS.ONE, SUGI, SAS Global Forum, SAS Explore, and SAS Innovate proceedings.
-- [Lex Jansen SAS Proceedings and More](https://www.lexjansen.com/) - Best searchable cross-conference paper archive in the SAS ecosystem.
-- [SUGI and SAS Global Forum at Lex Jansen](https://www.lexjansen.com/sugi/) - Direct path to the classic paper archive.
-- [PharmaSUG at Lex Jansen](https://www.lexjansen.com/pharmasug/) - Essential archive for clinical and life sciences SAS work.
-- [PHUSE EU Connect at Lex Jansen](https://www.lexjansen.com/phuse/) - Strong source for regulated-industry programming content.
-- [PHUSE US Connect at Lex Jansen](https://www.lexjansen.com/phuse-us/) - More PHUSE material, especially useful for pharma and submissions work.
-- [WUSS at Lex Jansen](https://www.lexjansen.com/wuss/) - Western Users of SAS Software proceedings.
-- [SESUG at Lex Jansen](https://www.lexjansen.com/sesug/) - SouthEast SAS Users Group proceedings.
-- [MWSUG at Lex Jansen](https://www.lexjansen.com/mwsug/) - MidWest SAS Users Group proceedings.
-- [NESUG Archive at Lex Jansen](https://www.lexjansen.com/nesug/) - Historic NorthEast users group content with many programming gems.
 - [Tech Report Archive](https://communities.sas.com/t5/Tech-Report-Archive/tkb-p/tech-report-archive) - Easy-to-miss archive of older SAS technical writing.
 - [SAS-L Mailing List Archive](https://marc.info/?l=sas-l&r=1&w=2) - Deep historical archive for obscure issues, legacy behavior, and hard debugging problems.
 - [SAS Technical Papers](https://support.sas.com/en/technical-papers.html) - Strong source for tuning, design patterns, and edge-case lessons.
-
+- ~~[Lex Jansen SAS Proceedings and More](https://www.lexjansen.com/) - Best searchable cross-conference paper archive in the SAS ecosystem.~~
+- ~~[SUGI and SAS Global Forum at Lex Jansen](https://www.lexjansen.com/sugi/) - Direct path to the classic paper archive.~~
+- ~~[PharmaSUG at Lex Jansen](https://www.lexjansen.com/pharmasug/) - Essential archive for clinical and life sciences SAS work.~~
+- ~~[PHUSE EU Connect at Lex Jansen](https://www.lexjansen.com/phuse/) - Strong source for regulated-industry programming content.~~
+- ~~[PHUSE US Connect at Lex Jansen](https://www.lexjansen.com/phuse-us/) - More PHUSE material, especially useful for pharma and submissions work.~~
+- ~~[WUSS at Lex Jansen](https://www.lexjansen.com/wuss/) - Western Users of SAS Software proceedings.~~
+- ~~[SESUG at Lex Jansen](https://www.lexjansen.com/sesug/) - SouthEast SAS Users Group proceedings.~~
+- ~~[MWSUG at Lex Jansen](https://www.lexjansen.com/mwsug/) - MidWest SAS Users Group proceedings.~~
+- ~~[NESUG Archive at Lex Jansen](https://www.lexjansen.com/nesug/) - Historic NorthEast users group content with many programming gems.~~
 
 ## Blogs and Expert Writing
 
