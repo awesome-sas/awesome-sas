@@ -172,6 +172,7 @@ These links are a compact starting point for writing cleaner, safer, and easier-
 ## Conference Proceedings and Archives
 
 - [Past Conference Proceedings: 1976-onward](https://communities.sas.com/t5/SAS-Communities-Library/Past-Conference-Proceedings-1976-onward/ta-p/863480) - Official master index of SAS.ONE, SUGI, SAS Global Forum, SAS Explore, and SAS Innovate proceedings.
+- [SAS LEX.ICON](https://saslexicon.org/index.html) - Community location for SAS knowledge sharing with SAS User-Group Conference Proceedings
 - [Tech Report Archive](https://communities.sas.com/t5/Tech-Report-Archive/tkb-p/tech-report-archive) - Easy-to-miss archive of older SAS technical writing.
 - [SAS-L Mailing List Archive](https://marc.info/?l=sas-l&r=1&w=2) - Deep historical archive for obscure issues, legacy behavior, and hard debugging problems.
 - [SAS Technical Papers](https://support.sas.com/en/technical-papers.html) - Strong source for tuning, design patterns, and edge-case lessons.
